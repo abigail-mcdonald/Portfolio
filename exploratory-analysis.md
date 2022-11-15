@@ -41,3 +41,25 @@ Project Link:
 Data Files:
 [Gephi Network Visualization](https://github.com/abigail-mcdonald/Abigail_McDonald_Portfolio/blob/main/Enron%20Email%20Corpus%20Analysis%20(Gephi)/enronlist.gephi)
 
+
+## Restaurant Tip Analysis
+
+![Tip Percentage Lunch vs. Dinner](https://user-images.githubusercontent.com/117870319/202032516-ad3c26e9-4f40-434b-9421-20e881f8846c.png)
+
+Using a spreadsheet with demographics, bill total, and tip amounts of patrons from Restaurant X, this project analyzes how each factor is correlated with tip percentages/amounts.
+
+Project Link:
+[Project Notebook](https://github.com/abigail-mcdonald/Abigail_McDonald_Portfolio/blob/main/Restaurant%20Tip%20Analysis%20(Python)/Restaurant%20Tip%20Analysis.ipynb)
+
+Data Files:
+[Tip Data](https://github.com/abigail-mcdonald/Abigail_McDonald_Portfolio/blob/main/Restaurant%20Tip%20Analysis%20(Python)/tips.csv)
+
+
+## Airline Partner Analysis
+
+![Flights](https://github.com/abigail-mcdonald/Abigail_McDonald_Portfolio/blob/main/airline.png)
+
+In this project, Company A is looking for the best airline to partner with for their travel needs.  Using MySQL, data from 3 flight tables, and various internet databases, convenience and performance were evaluated in the four city markets concerned and a recommended contract partner was determined.
+
+Project Link:
+[Project Report](https://github.com/abigail-mcdonald/Abigail_McDonald_Portfolio/blob/main/Airline%20Partner%20Analysis%20(SQL).pdf)
