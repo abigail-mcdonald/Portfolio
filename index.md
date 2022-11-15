@@ -2,9 +2,11 @@
 layout: home 
 ---
 
-## Project List
+**Project List**
 
-### Visual and Exploratory Analysis Projects
+-------------------
+
+**Visual and Exploratory Analysis Projects**
 
 Bike Station Analysis *(Python)*
 
@@ -19,7 +21,7 @@ Airline Partner Analysis *(MySQL)*
 Anomaly Detection - Fraud *(Python, XLSTAT)*
 
 
-### Predictive Analytics Projects
+**Predictive Analytics Projects**
 
 Bath Soap Consumer Segmentation *(Python)*
 
@@ -30,7 +32,7 @@ Taxi Cancellation Predictions *(Python)*
 Political Microtargeting *(Python)*
 
 
-### Natural Language Processing Projects
+**Natural Language Processing Projects**
 
 *all projects done in Python using Google Colaboratory*
 
