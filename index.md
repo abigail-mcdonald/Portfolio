@@ -2,9 +2,9 @@
 layout: home 
 ---
 
-**PROJECT LIST**
-
 *All projects, including descriptions and links to notebooks, workbooks, and datasets, can be accessed through the appropriate section link at the top right.*
+
+**PROJECT LIST**
 -------------------
 
 **Visual and Exploratory Analysis Projects**
