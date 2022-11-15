@@ -1,0 +1,9 @@
+# Site settings
+title: Abigail McDonald's Portfolio
+author:
+  name: Abigail McDonald
+  email: mcdonald.abigail.marie@gmail.com
+description: "Data Science and Analytis Projects"
+
+# Build settings
+remote_theme: jekyll/minima
