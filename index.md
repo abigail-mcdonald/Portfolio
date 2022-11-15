@@ -39,4 +39,4 @@ layout: home
 
 - Predicting Recommendations
 
-- Predicting Recommendations using Transformers
+- Predicting Recommendations using deep neural networks
