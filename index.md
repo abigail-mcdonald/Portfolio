@@ -15,39 +15,28 @@ layout: home
 
 - Enron Email Corpus Analysis *(Gephi, Excel)*
 
-- Restaurant Tip Analysis *(Python)*
-
 - Airline Partner Analysis *(MySQL)*
 
-- Anomaly Detection - Fraud *(Python, XLSTAT)*
+- Restaurant Tip Analysis *(Python)*
 
 
 **Predictive Analytics Projects**
 
 - Bath Soap Consumer Segmentation *(Python)*
 
-- Personal Loan Predictions *(Python)*
+- Political Microtargeting *(Python)*
 
 - Taxi Cancellation Predictions *(Python)*
 
-- Political Microtargeting *(Python)*
+- Personal Loan Predictions *(Python)*
+
+- Anomaly Detection - Fraud *(Python, XLSTAT)*
 
 
 **Natural Language Processing Projects**
 
 >*all projects in this section done in Python using Google Colaboratory*
 
-- Movie Recommender System
-
-- Text Translator
-
-- Text Classification
-
-- Text Classification with Transformers
-
-- Semantic Search Engine
-
 - Predicting Recommendations
 
 - Predicting Recommendations using Transformers
-
