@@ -35,7 +35,7 @@ layout: home
 
 **Natural Language Processing Projects**
 
->*all projects in this section done in Python using Google Colaboratory*
+>*all projects in this section done in Python using Google Colab*
 
 - Predicting Recommendations
 
