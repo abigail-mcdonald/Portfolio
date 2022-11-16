@@ -4,7 +4,10 @@ author:
   name: Abigail McDonald
   email: mcdonald.abigail.marie@gmail.com
 description: "Data Science and Analytics Projects"
+minima:
+  date_format: "%b %-d, %Y"
 
+  # generate social links in footer
   social_links:
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/abigail-mcdonald-data/" }
     
