@@ -5,9 +5,9 @@ title: Predictive Analytics
 
 ## Bath Soap Consumer Segmentation
 
-picture
+<img src="https://by3301files.storage.live.com/y4m0lJx0chI8T1f04Rc1uQ9N1L__k9b-XB3evu7B6MHJy2tVQvphy-2-XGbnq2kZgLdxhFcyhJUjqBRnjCBJlJy6U0BRSiWhf1jBoKPBC9LEZsxE3r1sihWBNmf94Dy9ZM3Rq0a726XMXwoCNt3Zmo81PmlAyVgpTpSadfd__xHkihf1_ImYw5wQfZv4j2i3DMvPoyMYG2ez5GgMMPPvM8n76Ja7Rblt4Mc8TRh-gEIQMY?encodeFailures=1&width=294&height=162" />
 
-description
+This project utilizes clustering based on purchase behavior and basis of purchase in Python to help determine segments of Bath Soap Consumers.  Recommendations are made to the agency stakeholder on how to use these clusters for effective marketing of bath soap.
 
 Project Link:
 [Project Report,](https://github.com/abigail-mcdonald/Abigail_McDonald_Portfolio/blob/main/Bath%20Soap%20Consumer%20Segmentation%20(Python)/Bath%20Soap%20Consumer%20Segmentation.pdf)
@@ -19,7 +19,7 @@ Data Files:
 
 ## Political Microtargeting
 
-picture
+<img src="https://by3301files.storage.live.com/y4mg-BssRfru4rmVkqf5hHKkN4dO9vP5RiQ7aWwdN-u_bbgGYxq4lFfWOWeJ9THcSDkr2p2ckKLEd_2n26YU3IV8lB7Ec517kmhC8Mx4t-fyfgwzMQaaEonWmxSGeONHO3kWum_ghpgZwQlA8tUG-A2u2wmnUmHf_AkckOA05LE_7K5ON3IwkhnNjeSwKZy95yea3WYK7u3XOk-bAmW6s3fY2VG_McEi2hyOO8HZw8uVXw?encodeFailures=1&width=297&height=387" />
 
 description
 
