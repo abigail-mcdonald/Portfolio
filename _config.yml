@@ -3,7 +3,10 @@ title: Abigail McDonald's Portfolio
 author:
   name: Abigail McDonald
   email: mcdonald.abigail.marie@gmail.com
-description: "Data Science and Analytis Projects"
+description: "Data Science and Analytics Projects"
 
+  social_links:
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/abigail-mcdonald-data/" }
+    
 # Build settings
 remote_theme: jekyll/minima
