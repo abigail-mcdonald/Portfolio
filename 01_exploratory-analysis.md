@@ -21,7 +21,7 @@ Data Files:
 
 ## Complaint Analysis
 
-<img src="https://github.com/abigail-mcdonald/Portfolio/blob/main/assets/complaint%20analysis.png" />
+<img src="https://by3301files.storage.live.com/y4mP_D0MYoyJaS_RsDf93eqfU8oTcwyoCzl5fdaU-jokiuOqzMsDWQ1dXyjBrRy9hWZVHzSiE6A6VcBVhvCYzMmVUlQTPc9S6nX7OGuz7qqfZfteLZTmHwrm_yktt6bJqqPIZAq57l6VQ501j8dFoULp--RRiQnBLw-KADL8fMOw6Jzw6dopssjjS80vgijTEg64MzTWv8HLgj2HDfT7NDGZYw8J6zAWDu3JgaQ6rz5YjE?encodeFailures=1&width=300&height=209" />
 
 This project compares and visualizes complaints made to the Consumer Financial Protection Board in 2016 and 2019.  All data was scraped from consumerfinance.gov.
 
@@ -31,7 +31,7 @@ Project Link:
 
 ## Enron Email Corpus Analysis
 
-<img src="https://github.com/abigail-mcdonald/Portfolio/blob/main/assets/enron2.png" />
+<img src="https://by3301files.storage.live.com/y4mStNE3r5imDRWijnwYvmVdpWKAgWglJ6_w4SLREflM8YCkEmsgdLYEPw3HNxybTYJaEJHMuKSR82SIz6nc7RB_8bJSumU8b3q12I2cLt9l0V451Pd9D66MhNjep6mfaWowtROfhpHiIuHveYLz_fsqjxZD4nO-7in-WiLC69DM9sU21XW-uuu8HnYKIkDQoBPRf9hwbs2tiE5opiSs7J07j5rlFnyLdDQv2KPP4P9_NE?encodeFailures=1&width=300&height=307" />
 
 Using an abbreviated adjacency list for the Enron Email Corpus, a social network was visualized in Gephi and analyzed for structure, community, and relationship characteristics.  The results were presented in memo form addressed to the U.S. Securities and Exchange Commission (SEC).
 
@@ -45,7 +45,7 @@ Data Files:
 
 ## Airline Partner Analysis
 
-<img src="https://github.com/abigail-mcdonald/Portfolio/blob/main/assets/airline.png" />
+<img src="https://by3301files.storage.live.com/y4m4XAKHUsy_op_C9tkHukBZJZH61Nh0mtbTXNsMiATqvVlFTOQtd9apWdrkmj2-AjD4VYMC4gHXijPrim18CCB1NKpNECHTMRWKnvkZm9LEteO7h3q2DPL1EXYPCw_lKODnsBxBAVUP9j0QwwjtQ-mSUhN7-b3oJA5oQ4hqjriKxkOCLA7dfIcPbyRBeHzW66aa7oA5q2U9We7DG9bz5re9wc_Fu762V1VreUsdUZNc0o?encodeFailures=1&width=400&height=235" />
 
 In this project, Company A is looking for the best airline to partner with for their travel needs.  Using MySQL, data from 3 flight tables, and various internet databases, convenience and performance were evaluated in the four city markets concerned and a recommended contract partner was determined.
 
