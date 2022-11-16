@@ -21,7 +21,7 @@ Data Files:
 
 ## Complaint Analysis
 
-![Type of Complaint](https://github.com/abigail-mcdonald/Abigail_McDonald_Portfolio/blob/main/complaint%20analysis.png)
+![Type of Complaint](https://github.com/abigail-mcdonald/Portfolio/blob/main/assets/complaint%20analysis.png)
 
 This project compares and visualizes complaints made to the Consumer Financial Protection Board in 2016 and 2019.  All data was scraped from consumerfinance.gov.
 
@@ -31,7 +31,7 @@ Project Link:
 
 ## Enron Email Corpus Analysis
 
-![Enron Email Network](https://github.com/abigail-mcdonald/Abigail_McDonald_Portfolio/blob/main/Enron%20Email%20Corpus%20Analysis%20(Gephi)/enron2.png)
+![Enron Email Network](https://github.com/abigail-mcdonald/Portfolio/blob/main/assets/enron2.png)
 
 Using an abbreviated adjacency list for the Enron Email Corpus, a social network was visualized in Gephi and analyzed for structure, community, and relationship characteristics.  The results were presented in memo form addressed to the U.S. Securities and Exchange Commission (SEC).
 
@@ -45,7 +45,7 @@ Data Files:
 
 ## Airline Partner Analysis
 
-![Flights](https://github.com/abigail-mcdonald/Abigail_McDonald_Portfolio/blob/main/airline.png)
+![Flights](https://github.com/abigail-mcdonald/Portfolio/blob/main/assets/airline.png)
 
 In this project, Company A is looking for the best airline to partner with for their travel needs.  Using MySQL, data from 3 flight tables, and various internet databases, convenience and performance were evaluated in the four city markets concerned and a recommended contract partner was determined.
 
@@ -55,7 +55,7 @@ Project Link:
 
 ## Restaurant Tip Analysis
 
-![Tip Percentage Lunch vs. Dinner](https://user-images.githubusercontent.com/117870319/202032516-ad3c26e9-4f40-434b-9421-20e881f8846c.png)
+![Tip Percentage Lunch vs. Dinner](https://github.com/abigail-mcdonald/Portfolio/blob/main/assets/tip%20percentage.png)
 
 Using a spreadsheet with demographics, bill total, and tip amounts of patrons from Restaurant X, this project analyzes how each factor is correlated with tip percentages/amounts.
 
