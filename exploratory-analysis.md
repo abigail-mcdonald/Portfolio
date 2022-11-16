@@ -55,7 +55,7 @@ Project Link:
 
 ## Restaurant Tip Analysis
 
-<img src="https://github.com/abigail-mcdonald/Portfolio/blob/main/assets/tip%20percentage.png" />
+<img src="https://by3301files.storage.live.com/y4m-C7OQQTf3ARfr1RIyJ4BXafVyyRhhawNYt2BxtBgUMUQ4JG39bDvAconW5pDvY023smrtrMMZko8mDl7N8ZLHdtBTlS50LIVCQGGLIqSwWX28CPKZdMzvPF3A3TD9p31NuxV5fA7BCa3jH6QL2-4Ur2zrS0Wk5xLjIZmqdYbsK6U_csRCXFwRvNbZ46Aet7SADNgMGbcArEPoeQAMI26vzyE3km5vDUjH5vME8FNu9U?encodeFailures=1&width=400&height=235" />
 
 Using a spreadsheet with demographics, bill total, and tip amounts of patrons from Restaurant X, this project analyzes how each factor is correlated with tip percentages/amounts.
 
