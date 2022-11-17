@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visual and Exploratory Analysis
+title: Exploratory Analysis
 ---
 
 ## Bike Station Analysis
