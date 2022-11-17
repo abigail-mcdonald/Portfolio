@@ -2,7 +2,7 @@
 layout: home 
 ---
 
->*All projects, including descriptions and links to notebooks, workbooks, and datasets, can be accessed through the appropriate section link at the top right.*
+*All projects, including descriptions and links to notebooks, workbooks, and datasets, can be accessed through the appropriate section link at the top right.*
 
 **PROJECT LIST**
 -------------------
@@ -35,7 +35,7 @@ layout: home
 
 **Natural Language Processing Projects**
 
->*all projects in this section done in Python using Google Colab*
+*all projects in this section done in Python using Google Colab*
 
 - Predicting Recommendations
 
