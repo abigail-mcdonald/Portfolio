@@ -21,7 +21,7 @@ Data Files:
 
 <img src="https://by3301files.storage.live.com/y4mg-BssRfru4rmVkqf5hHKkN4dO9vP5RiQ7aWwdN-u_bbgGYxq4lFfWOWeJ9THcSDkr2p2ckKLEd_2n26YU3IV8lB7Ec517kmhC8Mx4t-fyfgwzMQaaEonWmxSGeONHO3kWum_ghpgZwQlA8tUG-A2u2wmnUmHf_AkckOA05LE_7K5ON3IwkhnNjeSwKZy95yea3WYK7u3XOk-bAmW6s3fY2VG_McEi2hyOO8HZw8uVXw?encodeFailures=1&width=297&height=387" />
 
-description
+Utilizing a voterfile made up of historical voter data and two waves of surveys, this project uses predictive analytics to determine potential campaign volunteer candidates, persuadable voters, targets for get out the vote contact, and effective messaging to use with specific voters.  The project uses the Republican candidate but could be generalized to any of the parties involved.
 
 Project Link:
 [Project Report](https://github.com/abigail-mcdonald/Abigail_McDonald_Portfolio/blob/main/Political%20Microtargeting%20(Python)/Political%20Microtargeting.pdf)
@@ -44,9 +44,9 @@ Data Files:
 
 ## Personal Loan Predictions
 
-picture
+<img src="https://user-images.githubusercontent.com/117870319/202321427-0cfd9e9f-c0fa-4c0f-973d-4438a9ecb908.png" />
 
-description
+Using known customer data for Universal Bank, an optimum predictive model is developed that shows: (1) customer targeting is more cost effective in this case than broad marketing strategies and (2) which customers to target.
 
 Project Link:
 [Project Notebook](https://github.com/abigail-mcdonald/Abigail_McDonald_Portfolio/blob/main/Personal%20Loan%20Predictive%20Analytics%20(Python)/Personal%20Loan%20Predictive%20Analytics.ipynb)
@@ -57,9 +57,9 @@ Data Files:
 
 ## Taxi Cancellation Predictions
 
-picture
+<img src="https://by3301files.storage.live.com/y4mxiw2UVMDcGt7ILW9323B7WQY9PHKo-0xZBctEvwQEOsYpLCpJrm875AVJyzcBLjNkjStI8jWpHxliX5Bf0cEyKTV_o_SyYkN5PpYvOC9jzr5S6QzP95ZealjFLsd0AM5o1zrInW-Lr0exdocCQRnOKNAnB36Zj9ncI57k-Moa_vCIxx-ssqxgp5AK0qaFBo8GyV6RbKhjHqfWBc1hC0oHpGbyMWXiipgAgjYvYndc2I?encodeFailures=1&width=777&height=300" />
 
-description
+This project uses data gleaned from Yourcabs.com to help identify potential taxi cancellations before they happen in order to save the company money and lost time.  
 
 Project Link:
 [Project Report,](https://github.com/abigail-mcdonald/Abigail_McDonald_Portfolio/blob/main/Taxi%20Cancellation%20Predictive%20Analytics%20(Python)/Taxi%20Cancellation%20Predictive%20Analysis.pdf)
@@ -71,9 +71,9 @@ Data Files:
 
 ## Anomaly Detection - Fraud
 
-picture
+<img src="https://by3301files.storage.live.com/y4mBr15UEjKL8AHV4s5iObE1tM9E2OOI_hVUOoEJxwjhdO8J6x83bc1tO6YU7YV6V506E0aTctgpW8nq4eeGAE51sRoM0UStrkNs8PZWVQyCVU2GESoCVvsnvnLeQ0MUlXKlGIEMhLm2bv15vAOFHrhKY_U1AlLkyE26CjgN3pvqkyIgKXAGYULKKltgXjTGxb48ELz0Y3x6R-mtq_aOIGeI7ZpMOz27-2IzsyM6DfydA0?encodeFailures=1&width=664&height=300" />
 
-description
+Using both supervised and unsupervised modeling strategies, as well as exploratory analysis, potentially fraudulent transactions are identified from a file containing past transactions for company x.  The best model is then identified for use in flagging likely future fraud activity.
 
 Project Link:
 [Project Report,](https://github.com/abigail-mcdonald/Abigail_McDonald_Portfolio/blob/main/Anomaly%20Detection%20-%20Fraud%20(Python%26XLSTAT)/Fraud%20Anomaly%20Detection.pdf)
